@@ -1008,6 +1008,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
   color:#000000;
 }
 #u449 {
@@ -1016,6 +1019,9 @@
   top:176px;
   width:169px;
   height:20px;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
   color:#000000;
 }
 #u450 {
